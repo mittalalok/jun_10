@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="sn_jun_10_employee" type="collection">
+        <element label="Job Title" max_length="101" name="job_title" type="string"/>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+    </element>
+</database>

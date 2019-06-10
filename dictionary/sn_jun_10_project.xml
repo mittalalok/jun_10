@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Project" max_length="40" name="sn_jun_10_project" type="collection">
+        <element label="Cost" mandatory="true" max_length="40" name="cost" type="float"/>
+        <element label="Project Documentation" max_length="1024" name="project_documentation" read_only="true" type="url"/>
+        <element label="Project Manager" mandatory="true" max_length="100" name="project_manager" type="string"/>
+        <element choice="1" label="Project Type" mandatory="true" max_length="40" name="project_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="External" value="external"/>
+                <element inactive_on_update="false" label="Internal" value="internal"/>
+            </choice>
+        </element>
+    </element>
+</database>
