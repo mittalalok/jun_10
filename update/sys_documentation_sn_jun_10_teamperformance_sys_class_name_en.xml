@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="project_manager" label="Project Manager 1" language="en" table="sn_jun_10_project">
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="sn_jun_10_teamperformance">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>project_manager</element>
+            <element>sys_class_name</element>
             <help/>
             <hint/>
-            <label>Project Manager 1</label>
+            <label>Class</label>
             <language>en</language>
-            <name>sn_jun_10_project</name>
-            <plural>Project Manager 1s</plural>
+            <name>sn_jun_10_teamperformance</name>
+            <plural>Class</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-10 12:55:31</sys_created_on>
-            <sys_id>964e9e75735e330005672cd2c4f6a731</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Project Manager 1</sys_name>
+            <sys_created_on>2019-06-28 09:14:18</sys_created_on>
+            <sys_id>606f5ab5735e330005672cd2c4f6a77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
             <sys_package display_value="jun_10 [jun 10_10][]]" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
             <sys_policy/>
             <sys_scope display_value="jun_10 [jun 10_10][]]">d5202a08734233001c233096fbf6a780</sys_scope>
-            <sys_update_name>sys_documentation_sn_jun_10_project_project_manager_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_jun_10_teamperformance_sys_class_name_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-10 16:57:20</sys_updated_on>
+            <sys_updated_on>2019-06-28 09:14:18</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
