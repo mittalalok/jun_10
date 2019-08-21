@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="myflow">45f1ae48734233001c233096fbf6a73f</flow>
+        <order>1.1</order>
+        <parent_ui_id>7152132f-6944-46ec-ae63-7d9449c0e6e4</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:42:52</sys_created_on>
+        <sys_id>94826e88734233001c233096fbf6a723</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="jun_10 [jun 10_10][]]" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jun_10 [jun 10_10][]]">d5202a08734233001c233096fbf6a780</sys_scope>
+        <sys_update_name>sys_hub_action_instance_94826e88734233001c233096fbf6a723</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:43:36</sys_updated_on>
+        <ui_id>e0d17d93-4e2c-489f-9ea4-8f92ef4449bd</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=94826e88734233001c233096fbf6a723"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>94826e88734233001c233096fbf6a723</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:42:53</sys_created_on>
+        <sys_id>10826e88734233001c233096fbf6a726</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:42:53</sys_updated_on>
+        <value>Hello from myflow</value>
+        <variable display_value="">c34aa006531003003bf1d9109ec587c4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>94826e88734233001c233096fbf6a723</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:43:35</sys_created_on>
+        <sys_id>6aa2ae88734233001c233096fbf6a7db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:43:35</sys_updated_on>
+        <value>Hello from myflow</value>
+        <variable display_value="">23c1bcc6531003003bf1d9109ec587e5</variable>
+    </sys_variable_value>
+</record_update>

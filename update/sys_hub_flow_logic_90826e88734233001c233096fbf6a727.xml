@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">94826e88734233001c233096fbf6a726</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="myflow">45f1ae48734233001c233096fbf6a73f</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>1</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:42:53</sys_created_on>
+        <sys_id>90826e88734233001c233096fbf6a727</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="jun_10 [jun 10_10][]]" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jun_10 [jun 10_10][]]">d5202a08734233001c233096fbf6a780</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_90826e88734233001c233096fbf6a727</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:43:36</sys_updated_on>
+        <ui_id>7152132f-6944-46ec-ae63-7d9449c0e6e4</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=90826e88734233001c233096fbf6a727"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>90826e88734233001c233096fbf6a727</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:42:53</sys_created_on>
+        <sys_id>58826e88734233001c233096fbf6a729</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:42:53</sys_updated_on>
+        <value>{{Created_1.current.assigned_to}}=Abel.Tuter</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

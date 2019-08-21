@@ -17,7 +17,6 @@
         <number_ref display_value="EMP">8bd8e6887302730005672cd2c4f6a717</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <scriptable_table>false</scriptable_table>
         <super_class/>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>

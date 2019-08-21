@@ -5,7 +5,6 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on sn_jun_10_project</description>
-        <express_security>false</express_security>
         <name>sn_jun_10_project</name>
         <operation display_value="delete">delete</operation>
         <script/>

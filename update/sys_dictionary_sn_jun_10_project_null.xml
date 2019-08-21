@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-10 12:53:21</sys_created_on>
-        <sys_id>773d7a4773d7330005672cd2c4f6a76b</sys_id>
+        <sys_id>3a6ca707db9f330083a655535e961942</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_jun_10_project</sys_name>
         <sys_package display_value="jun_10 [jun 10_10][]]" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
         <sys_policy/>
         <sys_scope display_value="jun_10 [jun 10_10][]]">d5202a08734233001c233096fbf6a780</sys_scope>
         <sys_update_name>sys_dictionary_sn_jun_10_project_NULL</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-21 01:40:04</sys_updated_on>
+        <sys_updated_by>amolkumar.jain@snc</sys_updated_by>
+        <sys_updated_on>2019-08-21 05:06:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
