@@ -10,13 +10,13 @@
             <name>sn_jun_10_project</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-28 09:09:31</sys_created_on>
+            <sys_created_on>2019-08-21 01:40:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6e4e9e75735e330005672cd2c4f6a740</sys_id>
+            <sys_id>804d7a4773d7330005672cd2c4f6a78f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-28 09:09:31</sys_updated_on>
+            <sys_updated_on>2019-08-21 01:40:00</sys_updated_on>
             <value>on_hold</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -24,8 +24,8 @@
             <name>sn_jun_10_project</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-28 09:09:31</sys_created_on>
-            <sys_id>624e9e75735e330005672cd2c4f6a741</sys_id>
+            <sys_created_on>2019-08-21 01:40:00</sys_created_on>
+            <sys_id>844d7a4773d7330005672cd2c4f6a78f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>project_state</sys_name>
             <sys_package display_value="jun_10 [jun 10_10][]]" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
@@ -33,7 +33,7 @@
             <sys_scope display_value="jun_10 [jun 10_10][]]">d5202a08734233001c233096fbf6a780</sys_scope>
             <sys_update_name>sys_choice_sn_jun_10_project_project_state</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-28 09:09:31</sys_updated_on>
+            <sys_updated_on>2019-08-21 01:40:00</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
