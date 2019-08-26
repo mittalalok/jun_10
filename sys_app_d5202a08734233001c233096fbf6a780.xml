@@ -16,7 +16,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>sn_jun_10</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description> SOme test </short_description>
         <source>sn_jun_10</source>
         <store_correlation_id/>
         <store_url/>
