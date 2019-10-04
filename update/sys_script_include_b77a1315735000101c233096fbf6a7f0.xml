@@ -2,29 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>sn_jun_10.si1</api_name>
+        <api_name>sn_jun_10.si12</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>si1</name>
-        <script><![CDATA[var si1 = Class.create();
-si1.prototype = {
+        <name>si12</name>
+        <script><![CDATA[var si12 = Class.create();
+si12.prototype = {
     initialize: function() {
     },
 
-    type: 'si1'
+    type: 'si12'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-04 10:21:32</sys_created_on>
         <sys_id>b77a1315735000101c233096fbf6a7f0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>si1</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>si12</sys_name>
         <sys_package display_value="Employee Onboarding" source="sn_jun_10">d5202a08734233001c233096fbf6a780</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Employee Onboarding">d5202a08734233001c233096fbf6a780</sys_scope>
         <sys_update_name>sys_script_include_b77a1315735000101c233096fbf6a7f0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-04 10:21:32</sys_updated_on>
+        <sys_updated_on>2019-10-04 10:53:49</sys_updated_on>
     </sys_script_include>
 </record_update>
